@@ -1,0 +1,17 @@
+body{
+    font-family: "arial";
+    font-size: 12px;
+}
+
+.titulo-reporte{
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #0000ff;
+}
+
+.cabecera-reporte-lineas{
+    border-top: 1px solid #000000;
+    border-bottom: 1px solid #000000;
+}
+
